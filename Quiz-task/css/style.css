@@ -1,0 +1,46 @@
+body{
+  overflow-x: hidden;
+  margin: auto;
+}
+.login-text {
+  width: 50%;
+  padding: 15px;
+  margin: auto;
+}
+.btn-login {
+  margin: 15px 0;
+}
+.regi-link {
+    text-decoration: none;
+}
+.regi-link:hover {
+    text-decoration: underline;
+}
+.form-control {
+  padding: 15px;
+  margin: 15px 0;
+}
+.option {display: flex;flex-wrap: wrap;}
+
+.option .opt {
+    width: 50%;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.questions h4 {
+    text-align: left;
+}
+.atmpt-ques .col {
+  margin: 15px 0;
+}
+
+.atmpt-ques {
+  width: 50%;
+  margin: auto;
+}
+
+.username {
+  text-transform: capitalize;
+  font-weight: bold;
+}
